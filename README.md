@@ -21,9 +21,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="30" alt="json logo"/>        
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="30" alt="astro logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"/>    
 </div>
 
 ###
@@ -46,6 +50,26 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/xnoctra/xnoctra/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/xnoctra/xnoctra/blob/output/github-snake.svg" />
 </picture>
+
+<h2 align="left">Project's I've worked on</h2>
+
+### [Ambience](https://github.com/xnoctra/Ambience)
+> - Founded Ambience
+> - Designed UI & UX
+> - Coded Frontend
+> - Coded Backend
+> - Lead Maintainer
+
+### [Space](https://github.com/NightProxy/Space)
+> - Founded Space
+> - Designed UI & UX
+> - Coded Frontend
+
+### [Light](https://github.com/LightUnblocker/Light)
+> - Founded Light
+> - Designed UI/UX
+> - Coded Frontend
+> - Coded Backend
 
 
 ###
