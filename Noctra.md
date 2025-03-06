@@ -1,6 +1,8 @@
 <h2 align="left">Hiya 👋 I'm Noctra!</h2>
 <h6>Frontend Web Developer, UI & UX Designer</h6>
 
+#### If you want me to collaborate on a project, feel free to [contact me!](https://discord.com/users/1184924189044506684)
+
 ###
 
 <div align="center">
@@ -15,19 +17,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="30" alt="json logo"/>        
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="30" alt="astro logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"/>    
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap,nodejs,npm,ruby,astro,vercel,netlify,cloudflare,vscode,github,figma,discord,sentry,arch,linux,md&perline=14" />
 </div>
 
 ###
@@ -51,7 +41,7 @@
   <img alt="github-snake" src="https://github.com/xnoctra/xnoctra/blob/output/github-snake.svg" />
 </picture>
 
-<h2 align="left">Project's I've worked on</h2>
+<h2 align="left">Projects I've worked on</h2>
 
 ### [Ambience](https://github.com/xnoctra/Ambience)
 > - Founded Ambience
@@ -70,6 +60,13 @@
 > - Designed UI/UX
 > - Coded Frontend
 > - Coded Backend
+
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=xnoctra5&color=979797&style=for-the-badge&label=Profile+Views"
+    alt="Profile Views"
+  />
+</div>
 
 
 ###
