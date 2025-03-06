@@ -17,7 +17,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap,nodejs,npm,ruby,astro,vercel,netlify,cloudflare,vscode,github,figma,discord,sentry,arch,linux,md&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap,nodejs,npm,ruby,astro,vercel,netlify,cloudflare,vscode,github,figma,discord,sentry,arch,linux,md&perline=13" />
 </div>
 
 ###
