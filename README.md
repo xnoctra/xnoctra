@@ -12,10 +12,6 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/xnoctra.png"  />
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap,nodejs,npm,ruby,astro,vercel,netlify,cloudflare,vscode,github,figma,discord,sentry,arch,linux,md&perline=13" />
 </div>
