@@ -1,5 +1,4 @@
-name: Generate Snake Animation
-
+name: generate-snake-game-from-github-contribution-grid
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -15,3 +14,4 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
