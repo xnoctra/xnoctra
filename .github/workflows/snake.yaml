@@ -2,15 +2,19 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" #  12 hour cd :D
+    - cron: "0 */12 * * *" # 12hr cd :D
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
 
       - uses: Platane/snk@v3
         with:
@@ -26,3 +30,4 @@ jobs:
           branch: main
           message: 'Generate Snake Animation'
           add: "dist"
+          token: ${{ secrets.GH_TOKEN }}
