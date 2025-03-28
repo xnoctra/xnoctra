@@ -1,24 +1,28 @@
-name: generate-snake-game-from-github-contribution-grid
+name: Generate Snake Animation
+
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" #  12 hour cd :D
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      - uses: actions/checkout@v3
+
       - uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: xnoctra
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake-dark.svg
+            dist/ocean.gif
 
-      - name: ensure the generated file exists
-        run: |
-          ls dist
-          test -f dist/github-contribution-grid-snake.svg
-          test -f dist/github-contribution-grid-snake-dark.svg
-          test -f dist/github-contribution-grid-snake-blue.svg
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: main
+          message: 'Generate Snake Animation'
+          add: "dist"
