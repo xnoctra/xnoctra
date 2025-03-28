@@ -28,6 +28,6 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           branch: main
-          message: 'Generate Snake Animation'
+          message: 'update snake animation'
           add: "dist"
           token: ${{ secrets.GH_TOKEN }}
