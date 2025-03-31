@@ -8,6 +8,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xnoctra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xnoctra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xnoctra&theme=dark&border_radius=3&exclude_days=Sun%2CSat&card_height=199&background=45%2C000000%2C252525" alt="GitHub Streak" /></a>
 </div>
 
 ###
