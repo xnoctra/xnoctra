@@ -8,7 +8,7 @@
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=xnoctra&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&card_width=423)
-![](https://nirzak-streak-stats.vercel.app/?user=xnoctra&theme=catppuccin_mocha&hide_border=true&card_width=423)
+![](https://nirzak-streak-stats.vercel.app/?user=xnoctra&theme=catppuccin_mocha&hide_border=true&card_width=400)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xnoctra&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&card_width=850)
 
 </div>
