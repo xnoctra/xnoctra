@@ -1,5 +1,7 @@
-<h2 align="center">Hiya 👋 I'm Noctra!</h2>
-<h6 align="center">Frontend Web Developer, UI & UX Designer</h6>
+<div align="center">
+  <h2>Hiya 👋 I'm Noctra!</h2>
+  <h6>Frontend Web Developer, UI & UX Designer</h6>
+</div>
 
 ###
 
@@ -7,8 +9,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=xnoctra&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=xnoctra&theme=catppuccin_mocha&hide_border=true)
-![](https://github-profile-trophy.vercel.app/?username=xnoctra&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xnoctra&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xnoctra&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&card_width=550)
 
 </div>
 
@@ -20,8 +21,11 @@
 
 <h1>Other Software</h1>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,ruby,vercel,netlify,cloudflare,vscode,github,figma,discord,sentry,arch,linux,md&perline=14" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,vscode,github,figma,discord,sentry,arch,linux,md&perline=14" />
 </div>
+
+# Achievements
+![](https://github-profile-trophy.vercel.app/?username=xnoctra&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 ###
 
