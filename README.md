@@ -35,8 +35,8 @@
   <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
 
-## Projects I've worked on
-- [Ambience](https://github.com/xnoctra/Ambience)
+# Projects I've worked on
+- [Ambient](https://github.com/xnoctra/Ambient)
 - [Space](https://github.com/NightProxy/Space)
 - [Light](https://github.com/LightUnblocker/Light)
 
